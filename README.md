@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SandipKundu
-- 👀 I’m interested in the field of Data Science.
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in the field of Data Analytics.
+- 🌱 I’m currently learning Python ML Libraries
 - 📫 How to reach me kundusandip004@gmail.com
