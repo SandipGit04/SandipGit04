@@ -333,11 +333,13 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
+<h2>💡 &nbsp; Quote I Live By</h2>
+
 <br/>
 
 <div align="center">
 
-💡 *"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
+💡 *"Somewhere, something incredible is waiting to be known."* — **Carl Sagan**
 
 <br/>
 
