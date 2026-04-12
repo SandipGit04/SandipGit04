@@ -29,7 +29,7 @@
 
 <!-- ████████████████████████  ABOUT ME  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=10"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=15"/>
 
 <h2>👾 &nbsp;whoami</h2>
 
