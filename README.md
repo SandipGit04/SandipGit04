@@ -148,9 +148,9 @@ print(f"Hello World! I'm {me.name} 👋")
 
 | 🏆 Project | 📄 Description | 🔧 Stack |
 |:-----------|:--------------|:--------|
-| [🏢 Human Resources Dashboard](https://github.com/YOUR_GITHUB_USERNAME/hr-dashboard) | Analyzed workforce composition, attrition & compensation trends. Derived HR KPIs — headcount, tenure & salary distribution. Built interactive Tableau dashboard for real-time HR reporting. | `Python` `SQL` `Tableau` |
-| [🏙️ Manhattan Property Sales Analysis](https://github.com/YOUR_GITHUB_USERNAME/manhattan-property-sales) | Dynamic Excel dashboard for 2023 NYC property sales. Used Pivot Tables & Slicers. Key finding: 70% of sales were Condos (53%) & Co-ops (17%). Peak months: Mar, Aug & Dec. | `Excel` `Pivot Tables` |
-| [📈 Sales & Customer Dashboard](https://github.com/YOUR_GITHUB_USERNAME/sales-customer-dashboard) | Tableau dashboard tracking YoY sales, profit & customer behavior. Identified that majority of customers placed 1–3 orders. Visualized top-performing months & product subcategories. | `Tableau` |
+| [🏢 Human Resources Dashboard](https://github.com/SandipGit04/hr-dashboard) | Analyzed workforce composition, attrition & compensation trends. Derived HR KPIs — headcount, tenure & salary distribution. Built interactive Tableau dashboard for real-time HR reporting. | `Python` `SQL` `Tableau` |
+| [🏙️ Manhattan Property Sales Analysis](https://github.com/SandipGit04/manhattan-property-sales) | Dynamic Excel dashboard for 2023 NYC property sales. Used Pivot Tables & Slicers. Key finding: 70% of sales were Condos (53%) & Co-ops (17%). Peak months: Mar, Aug & Dec. | `Excel` `Pivot Tables` |
+| [📈 Sales & Customer Dashboard](https://github.com/SandipGit04/sales-customer-dashboard) | Tableau dashboard tracking YoY sales, profit & customer behavior. Identified that majority of customers placed 1–3 orders. Visualized top-performing months & product subcategories. | `Tableau` |
 
 <br/>
 
@@ -158,11 +158,11 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-[![HR Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=hr-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/YOUR_GITHUB_USERNAME/hr-dashboard)
+[![HR Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=hr-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/hr-dashboard)
 &nbsp;
-[![Manhattan Sales](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=manhattan-property-sales&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/YOUR_GITHUB_USERNAME/manhattan-property-sales)
+[![Manhattan Sales](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=manhattan-property-sales&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/manhattan-property-sales)
 
-[![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=sales-customer-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/YOUR_GITHUB_USERNAME/sales-customer-dashboard)
+[![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=sales-customer-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/sales-customer-dashboard)
 
 </div>
 
@@ -222,7 +222,7 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SandipGit04&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -236,21 +236,21 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical"/>
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandipGit04&theme=radical"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SandipGit04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandipGit04&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=FF006E&fire=FFD700&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=888888"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=SandipGit04&theme=radical&hide_border=true&background=0d1117&ring=FF006E&fire=FFD700&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=888888"/>
 
 </div>
 
@@ -264,7 +264,7 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00FFFF&line=FF006E&point=FFD700&area_color=BF00FF&area=true&hide_border=true&title_color=00FFFF&custom_title=SANDIP%20KUNDU's%20Contribution%20Graph"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandipGit04&bg_color=0d1117&color=00FFFF&line=FF006E&point=FFD700&area_color=BF00FF&area=true&hide_border=true&title_color=00FFFF&custom_title=SANDIP%20KUNDU's%20Contribution%20Graph"/>
 
 </div>
 
@@ -279,9 +279,9 @@ print(f"Hello World! I'm {me.name} 👋")
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandipGit04/SandipGit04/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandipGit04/SandipGit04/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SandipGit04/SandipGit04/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -318,7 +318,7 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <br/>
 
-[![View All Vizzes](https://img.shields.io/badge/VIEW%20ALL%20MY%20VIZZES%20→-E97627?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_PUBLIC_URL)
+[![View All Vizzes](https://img.shields.io/badge/VIEW%20ALL%20MY%20VIZZES%20→-E97627?style=for-the-badge&logo=tableau&logoColor=white)]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/sandip.kundu5209/vizzes))
 
 <br/>
 
@@ -335,15 +335,15 @@ print(f"Hello World! I'm {me.name} 👋")
 <div align="center">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SANDIP%20KUNDU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SANDIP%20KUNDU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sandipin04/))
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-kundusandip004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusandip004@gmail.com)
 &nbsp;
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_PUBLIC_URL)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sandip.kundu5209/vizzes)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-SandipKundu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SandipKundu/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SandipGit04)
 
 <br/><br/>
 
