@@ -299,7 +299,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&hight=10&width=600"/>
+<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&width=600"/>
 
 </div>
 
@@ -337,6 +337,8 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SANDIP%20KUNDU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sandipin04/))
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@YOUR__HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@SandipX04)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-kundusandip004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusandip004@gmail.com)
 &nbsp;
