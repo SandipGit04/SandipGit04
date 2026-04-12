@@ -1,6 +1,6 @@
 <!-- ████████████████████████  HEADER  ████████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=SANDIP%20KUNDU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Data%20Analyst%20%7C%20Transforming%20Raw%20Data%20into%20Business%20Decisions%20⚡&descAlignY=58&descSize=18&descColor=00ffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=SANDIP%20KUNDU&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Data%20Analyst%20%7C%20Transforming%20Raw%20Data%20into%20Business%20Decisions%20⚡&descAlignY=58&descSize=18&descColor=00ffff"/>
 
 <!-- ██████████████████████████  TYPING  ██████████████████████████ -->
 
@@ -317,13 +317,13 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-@SandipX04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@SandipX04)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-kundusandip004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusandip004@gmail.com)
-&nbsp;
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sandip.kundu5209/vizzes)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-SandipKundu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SandipKundu/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SandipGit04)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-kundusandip004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusandip004@gmail.com)
 
 <br/><br/>
 
