@@ -148,9 +148,9 @@ print(f"Hello World! I'm {me.name} 👋")
 
 | 🏆 Project | 📄 Description | 🔧 Stack |
 |:-----------|:--------------|:--------|
-| [🏢 Human Resources Dashboard](https://github.com/SandipGit04/hr-dashboard) | Analyzed workforce composition, attrition & compensation trends. Derived HR KPIs — headcount, tenure & salary distribution. Built interactive Tableau dashboard for real-time HR reporting. | `Python` `SQL` `Tableau` |
-| [🏙️ Manhattan Property Sales Analysis](https://github.com/SandipGit04/manhattan-property-sales) | Dynamic Excel dashboard for 2023 NYC property sales. Used Pivot Tables & Slicers. Key finding: 70% of sales were Condos (53%) & Co-ops (17%). Peak months: Mar, Aug & Dec. | `Excel` `Pivot Tables` |
+| [🏢 Human Resources Dashboard](https://github.com/SandipGit04/Human-Resources-Dashboard) | Analyzed workforce composition, attrition & compensation trends. Derived HR KPIs — headcount, tenure & salary distribution. Built interactive Tableau dashboard for real-time HR reporting. | `Python` `SQL` `Tableau` |
 | [📈 Sales & Customer Dashboard](https://github.com/SandipGit04/sales-customer-dashboard) | Tableau dashboard tracking YoY sales, profit & customer behavior. Identified that majority of customers placed 1–3 orders. Visualized top-performing months & product subcategories. | `Tableau` |
+| [🏙️ Manhattan Property Sales Analysis](https://github.com/SandipGit04/Manhattan-Property-Sales-Dashboard) | Dynamic Excel dashboard for 2023 NYC property sales. Used Pivot Tables & Slicers. Key finding: 70% of sales were Condos (53%) & Co-ops (17%). Peak months: Mar, Aug & Dec. | `Excel` `Pivot Tables` |
 
 <br/>
 
@@ -158,11 +158,10 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-[![HR Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=hr-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/hr-dashboard)
+[![HR Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=hr-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/Human-Resources-Dashboard)
 &nbsp;
-[![Manhattan Sales](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=manhattan-property-sales&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/manhattan-property-sales)
-
 [![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=sales-customer-dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/sales-customer-dashboard)
+[![Manhattan Sales](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=manhattan-property-sales&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/Manhattan-Property-Sales-Dashboard)
 
 </div>
 
@@ -176,9 +175,9 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-[![Google Data Analytics](https://img.shields.io/badge/✅%20Google%20Data%20Analytics-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_CERT_LINK_1)
+[![Google Data Analytics](https://img.shields.io/badge/✅%20Google%20Data%20Analytics-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/T70AYWJH4NCA)
 &nbsp;&nbsp;
-[![ML with Python](https://img.shields.io/badge/✅%20Machine%20Learning%20with%20Python-III-FF6F00?style=for-the-badge&logo=python&logoColor=white)](YOUR_CERT_LINK_2)
+[![ML with Python](https://img.shields.io/badge/✅%20Machine%20Learning%20with%20Python-III-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/file/d/1IrRARv-jyF7_8Xi8UL4EhLvTzPhX7va8/view)
 
 </div>
 
