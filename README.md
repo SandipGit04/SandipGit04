@@ -159,7 +159,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 <div align="center">
 
 [![HR Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=Human-Resources-Dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/Human-Resources-Dashboard)
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 [![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=Sales-Customers-Dashboard&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/Sales-Customers-Dashboard)
 [![Manhattan Sales](https://github-readme-stats.vercel.app/api/pin/?username=SandipGit04&repo=Manhattan-Property-Sales-Dashboards&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF006E)](https://github.com/SandipGit04/Manhattan-Property-Sales-Dashboard)
 
