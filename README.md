@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=SANDIP%20KUNDU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Data%20Analyst%20%7C%20Transforming%20Raw%20Data%20into%20Business%20Decisions%20⚡&descAlignY=58&descSize=18&descColor=00ffff"/>
 
-<!-- ████████████████████████████  TYPING  ████████████████████████████ -->
+<!-- ██████████████████████████  TYPING  ██████████████████████████ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=800&lines=👨‍💻Data+Analyst+%7C+Data+Enthusiast;🔍+Exploratory+Data+Analysis+%7C+Statistical+Thinking;📊+Dashboard+Builder+%7C+Data+Storyteller;🧠+SQL+%7C+Python+%7C+Tableau+%7C+Excel;💡+Turning+Raw+Data+Into+Insights...;🚀+Open+to+Opportunities+%7C+Remote%2C+Hybrid%2C+Onsite)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=800&lines=👨‍💻+Data+Analyst+%7C+Data+Enthusiast;🔍+Exploratory+Data+Analysis+%7C+Statistical+Thinking;📊+Dashboard+Builder+%7C+Data+Storyteller;🧠+SQL+%7C+Python+%7C+Tableau+%7C+Excel;💡+Turning+Raw+Data+Into+Insights...;🚀+Open+to+Opportunities+%7C+Remote%2C+Hybrid%2C+Onsite)](https://git.io/typing-svg)
 
 </div>
 
