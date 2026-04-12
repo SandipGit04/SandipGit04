@@ -293,13 +293,13 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <!-- ████████████████████████  LEETCODE  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=10"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <h2>🧠 &nbsp;LeetCode Progress</h2>
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&width=600"/>
+<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&hight=10&width=600"/>
 
 </div>
 
