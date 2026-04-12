@@ -321,7 +321,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-SandipKundu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SandipKundu/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SandipGit04)
+[![GitHub](https://img.shields.io/badge/GitHub-SandipGit04-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SandipGit04)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-kundusandip004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusandip004@gmail.com)
 
