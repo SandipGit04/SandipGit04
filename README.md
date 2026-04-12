@@ -277,12 +277,10 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 <h2>🧠 &nbsp;LeetCode Progress</h2>
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&width=600"/>
-
+  <img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&width=600"/>
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ████████████████████████  TABLEAU  ████████████████████████ -->
 
