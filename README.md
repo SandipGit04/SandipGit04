@@ -295,8 +295,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 🎨 Explore my interactive data stories on **Tableau Public!**
 
 <br/>
-
-[![View All Vizzes](https://img.shields.io/badge/VIEW%20ALL%20MY%20VIZZES%20→-E97627?style=for-the-badge&logo=tableau&logoColor=white)]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/sandip.kundu5209/vizzes))
+[![View All Vizzes](https://img.shields.io/badge/VIEW%20ALL%20MY%20VIZZES%20→-E97627?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/sandip.kundu5209/vizzes))
 
 <br/>
 
@@ -337,7 +336,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <div align="center">
     
-<h2>💡 &nbsp; Quote I Live By</h2>
+**💡 Quote I Live By**
     
 💡 *"Somewhere, something incredible is waiting to be known."* — **Carl Sagan**
 
