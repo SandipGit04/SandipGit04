@@ -1,260 +1,160 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sandip%20Kundu&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau&descAlignY=55&descSize=18"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Sandip%20Kundu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Transforming%20Data%20into%20Decisions&descAlignY=58&descSize=20&animation=fadeIn"/>
+</p>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+actionable+insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Tableau+%7C+Excel;Dashboard+Builder+%7C+Data+Storyteller;Always+learning%2C+always+analyzing...+%F0%9F%94%8D)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=00d9ff&label=FOLLOWERS)
-
-</div>
+<!-- TITLE -->
+<h3 align="center">
+  <img src="https://img.shields.io/badge/📊-Data%20Analyst-blue?style=flat-square"/> &nbsp;
+  <b>Data Analyst | Data Enthusiast</b>
+</h3>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
-
-```python
-class SandipKundu:
-
-    def __init__(self):
-        self.name        = "Sandip Kundu"
-        self.role        = "Data Analyst"
-        self.college     = "Budge Budge Institute of Technology"
-        self.degree      = "B.Tech — Computer Science & Engineering (2022–2026)"
-        self.cgpa        = 7.73
-        self.location    = "Howrah, West Bengal, India 🇮🇳"
-        self.email       = "kundusandip004@gmail.com"
-
-    def skills(self):
-        return {
-            "languages"   : ["Python", "SQL", "C", "C++"],
-            "libraries"   : ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "tools"       : ["Tableau", "Excel", "MySQL", "PostgreSQL", "SQL Server"],
-            "platforms"   : ["Jupyter Notebook", "VS Code", "Figma"],
-            "analytics"   : ["EDA", "Statistical Analysis", "Data Cleaning",
-                             "Dashboard Building", "Data Storytelling"]
-        }
-
-    def currently(self):
-        return "📊 Building data projects & preparing for campus placements"
-
-    def fun_fact(self):
-        return "🧠 Data is the new oil — but only if you know how to refine it!"
-
-me = SandipKundu()
-```
-
-<br/>
-
-<!-- TECH STACK SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-<h2 align="center">⚡ Tech Stack & Arsenal</h2>
-
-<div align="center">
-
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=00D9FF)
-![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
-
-### 📦 Libraries
-![Pandas](https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=00D9FF)
-![NumPy](https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=numpy&logoColor=00D9FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Seaborn](https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF)
-
-### 🛠️ Tools & Databases
-![Tableau](https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Excel](https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192)
-![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-### 💻 Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-</div>
-
-<br/>
-
-<!-- PROJECTS SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
-
-<div align="center">
-
-| 🔗 Project | 🛠️ Stack | 📅 Period |
-|:-----------|:---------|:---------|
-| [🏢 HR Dashboard](#) | Python · SQL · Tableau | Feb – Mar 2025 |
-| [🏙️ Manhattan Property Sales](#) | Excel · Pivot Tables | Oct 2024 |
-| [📈 Sales & Customer Dashboard](#) | Tableau | Oct – Nov 2024 |
-
-</div>
-
-<br/>
+<!-- STATS ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=555555&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat-square&color=0075ff"/>
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS+EARNED&style=flat-square&color=FFD700"/>
+</p>
 
 ---
 
-### 🏢 Human Resources Dashboard
-> *Analyzing workforce composition, attrition, and compensation trends*
-
-```
-📌 Analyzed synthetic HR data — headcount, tenure, salary distribution
-   & education-based performance across the organization.
-
-🧹 Cleaned employee, salary & performance datasets using Python + SQL
-   to derive meaningful HR KPIs.
-
-📊 Built an interactive Tableau dashboard for real-time HR reporting
-   visualizing demographics, compensation & workforce distribution.
-
-🔧 Stack → Python | SQL | Tableau
-```
-
-[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/YOUR_GITHUB_USERNAME/hr-dashboard)
+## 🛠️ Skills & Tools
 
 ---
 
-### 🏙️ Manhattan Property Sales Analysis
-> *Uncovering 2023 NYC real estate trends through Excel analytics*
+### 💬 Languages
 
-```
-📌 Built a dynamic Excel dashboard for 2023 Manhattan property sales —
-   across neighborhoods, age groups, tax class & building category.
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
-🔍 Used Pivot Tables & Slicers for real-time filtering by property type,
-   months, building class and age group.
+### 📦 Libraries & Frameworks
 
-💡 Key Finding → 70% of sales were Condos (53%) & Co-ops (17%).
-   Fashion District had the highest avg. price.
-   Peak months: March, August & December.
+![Pandas](https://img.shields.io/badge/PANDAS-3B0A6E?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-4B6FA5?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-4878CF?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-3A86FF?style=for-the-badge&logo=python&logoColor=white)
 
-🔧 Stack → Excel | Pivot Tables | Slicers
-```
+### 🗄️ Tools & Databases
 
-[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/YOUR_GITHUB_USERNAME/manhattan-property-sales)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-E040A0?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🖥️ IDEs & Dev Tools
+
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Data Analysis Skills
+
+![EDA](https://img.shields.io/badge/EXPLORATORY%20DATA%20ANALYSIS-2176AE?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/STATISTICAL%20ANALYSIS-0ABFBC?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/DATA%20CLEANING-00B050?style=for-the-badge)
+![Dashboard Building](https://img.shields.io/badge/DASHBOARD%20BUILDING-FF6B35?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/DATA%20STORYTELLING-7B2FBE?style=for-the-badge)
 
 ---
 
-### 📈 Sales & Customer Dashboard
-> *Year-over-year performance tracking with customer behavior analytics*
+## 🚀 Featured Projects
 
-```
-📌 Analyzed YoY sales, profit, order volume & customer behavior
-   using an interactive Tableau dashboard.
+---
 
-👥 Evaluated customer distribution by order frequency.
-   Key insight: majority of customers placed 1–3 orders.
+| 🏆 Project | 📄 Description | 🔧 Stack |
+|:-----------|:--------------|:--------|
+| [🏢 Human Resources Dashboard](https://github.com/YOUR_GITHUB_USERNAME/hr-dashboard) | Analyzed workforce composition, attrition & compensation trends. Built interactive Tableau dashboard with HR KPIs. | `Python` `SQL` `Tableau` |
+| [🏙️ Manhattan Property Sales Analysis](https://github.com/YOUR_GITHUB_USERNAME/manhattan-property-sales) | Excel dashboard with Pivot Tables & slicers. Found 70% of sales were Condos (53%) & Co-ops (17%). Peak months: March, Aug & Dec. | `Excel` `SQL` |
+| [📈 Sales & Customer Dashboard](https://github.com/YOUR_GITHUB_USERNAME/sales-customer-dashboard) | Tableau dashboard tracking YoY sales, profit, order volume & customer segments. Majority of customers placed 1–3 orders. | `Tableau` |
 
-📊 Visualized sales & profit trends across time & product subcategories
-   to identify top-performing months and products.
+---
 
-🔧 Stack → Tableau
-```
+## 📊 GitHub Stats
 
-[![Repo](https://img.shields.io/badge/View_Repo-20232A?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/YOUR_GITHUB_USERNAME/sales-customer-dashboard)
+---
 
-<br/>
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=c77dff&text_color=ffffff"/>
+</p>
 
-<!-- CERTIFICATIONS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8"/>
+</p>
 
-<h2 align="center">🏅 Certifications</h2>
+---
 
-<div align="center">
+## 📉 Contribution Activity
 
-[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_CERTIFICATE_LINK)
-&nbsp;
-[![ML with Python](https://img.shields.io/badge/Machine_Learning_with_Python-III-FF6F00?style=for-the-badge&logo=python&logoColor=white)](YOUR_CERTIFICATE_LINK)
+---
 
-</div>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ff6b35&area=true&hide_border=true"/>
+</p>
 
-<br/>
+---
 
-```
-🏅 Google Data Analytics — Coursera                              Jun – Jul 2025
-   ↳ Data life cycle, data-driven questioning, SQL, Tableau, R & Spreadsheets.
+## 🧠 LeetCode Progress
 
-🏅 Machine Learning with Python — III                            Jul 2025
-   ↳ EDA, linear regression, NumPy, Pandas, Scikit-Learn & Seaborn.
-```
+---
 
-<br/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=0&radius=8"/>
+</p>
 
-<!-- GITHUB STATS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 Tableau Dashboards
 
-<div align="center">
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+<p align="center">
+  🎨 Explore my interactive data stories on <b>Tableau Public!</b>
+</p>
 
-<br/>
+<p align="center">
+  <a href="YOUR_TABLEAU_PUBLIC_URL">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20MY%20VIZZES%20→-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+---
 
-<br/>
+## 🤝 Let's Connect
 
-[![Sandip's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-</div>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-SANDIP%20KUNDU-555555?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_TABLEAU_PUBLIC_URL">
+    <img src="https://img.shields.io/badge/TABLEAU-PUBLIC-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kundusandip004@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-KUNDUSANDIP004-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+---
 
-<!-- EDUCATION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<p align="center">
+  💡 <i>"Without data, you're just another person with an opinion."</i> — <b>W. Edwards Deming</b>
+</p>
 
-<h2 align="center">🎓 Education</h2>
-
-```
-🏛️  Budge Budge Institute of Technology, Kolkata        2022 – 2026
-    B.Tech — Computer Science & Engineering
-    CGPA: 7.73
-
-📚  Jagatballavpur High School, Howrah                  2022
-    Class XII  →  85.4%
-
-📚  Jagatballavpur High School, Howrah                  2020
-    Class X    →  87%
-```
-
-<br/>
-
-<!-- CONTACT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-<h2 align="center">📬 Let's Connect</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusandip004@gmail.com)
-&nbsp;
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_PUBLIC_URL)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-<br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+<p align="center">
+  ⭐ If you find my work interesting, feel free to star my repos — it means a lot! ⭐
+</p>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+</p>
