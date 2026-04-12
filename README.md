@@ -1,6 +1,6 @@
 <!-- ████████████████████████  HEADER  ████████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=SANDIP%20KUNDU&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Data%20Analyst%20%7C%20Transforming%20Raw%20Data%20into%20Business%20Decisions%20⚡&descAlignY=58&descSize=18&descColor=00ffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=SANDIP%20KUNDU&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Data%20Analyst%20%7C%20Transforming%20Raw%20Data%20Into%20Business%20Decisions%20⚡&descAlignY=58&descSize=18&descColor=00ffff"/>
 
 <!-- ██████████████████████████  TYPING  ██████████████████████████ -->
 
