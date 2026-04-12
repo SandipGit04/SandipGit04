@@ -207,9 +207,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 <h2>🏆 &nbsp;GitHub Trophies</h2>
 
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SandipGit04&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SandipGit04&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </div>
 
 <br/>
