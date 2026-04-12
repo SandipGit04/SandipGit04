@@ -337,7 +337,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <div align="center">
     
-**💡 Quote I Live By**
+### 💡 Quote I Live By
     
 *"Somewhere, something incredible is waiting to be known."* — **Carl Sagan**
 
