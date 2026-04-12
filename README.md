@@ -261,16 +261,12 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 <h2>🐍 &nbsp;Contribution Snake</h2>
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandipGit04/SandipGit04/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandipGit04/SandipGit04/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SandipGit04/SandipGit04/output/github-contribution-grid-snake.svg"/>
 </picture>
-
 </div>
-
-> ⚙️ **Setup:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo to activate the snake animation!
 
 <br/>
 
