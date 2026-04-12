@@ -81,11 +81,11 @@
 ---
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=c77dff&text_color=ffffff"/>
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=c77dff&fire=ff6b35&currStreakLabel=c77dff&sideLabels=00b4d8&sideNums=ffffff&currStreakNum=ffffff&dates=888888"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ---
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ff6b35&area=true&hide_border=true"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00b4d8&line=5b8dee&point=ff6b35&area_color=1e1e2e&area=true&hide_border=true&title_color=ffffff&custom_title=SANDIP%20KUNDU's%20Contribution%20Graph"/>
 </p>
 
 ---
