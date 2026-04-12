@@ -299,7 +299,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=0&radius=8&width=600"/>
+<img src="https://leetcard.jacoblin.cool/SandipKundu?theme=dark&font=baloo_2&ext=heatmap&border=5&radius=15&width=600"/>
 
 </div>
 
