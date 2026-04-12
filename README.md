@@ -15,11 +15,11 @@
 <div align="center">
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=SandipGit04&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/SandipGit04)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=ff006e&label=FOLLOWERS&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/SandipGit04?style=for-the-badge&color=ff006e&label=FOLLOWERS&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=FFD700&label=STARS+EARNED&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Stars](https://img.shields.io/github/stars/SandipGit04?style=for-the-badge&color=FFD700&label=STARS+EARNED&logo=github)](https://github.com/SandipGit04)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-00C853?style=for-the-badge)
 
