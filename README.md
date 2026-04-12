@@ -345,8 +345,6 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
 
 <!-- FOOTER WAVE -->
