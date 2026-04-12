@@ -293,7 +293,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <!-- ████████████████████████  LEETCODE  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=10"/>
 
 <h2>🧠 &nbsp;LeetCode Progress</h2>
 
@@ -362,7 +362,7 @@ print(f"Hello World! I'm {me.Sandip Kundu} 👋")
 
 <br/>
 
-⭐ **If you find my work interesting, feel free to star my repos — it means a lot!** ⭐
+⭐ **If you find my contributions meaningful, please consider starring the repository to show your support.** ⭐
 
 <br/>
 
